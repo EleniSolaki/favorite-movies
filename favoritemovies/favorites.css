@@ -1,0 +1,32 @@
+body {
+  background: #6a4104;
+  margin: 0;
+}
+
+.container {
+  margin: 10px auto;
+  width:700px;
+  height:auto;
+  background-color: wheat;
+}
+
+p{
+  margin-bottom: 20px;
+  text-align: center;
+  color: #fff;
+  font-size: 28px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.favjson{
+  padding:10px;
+}
+
+.btn{
+  position: absolute;
+  right:0;
+  margin:5px;
+  color: wheat;
+  border: 1px solid grey;
+  padding: 15px 10px;
+}
