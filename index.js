@@ -1,3 +1,5 @@
+let movieApiResponse = ''
+
 $(document).ready(function(){
     let debounceTimeout = null
     $('#searchInput').on('input', function(){
